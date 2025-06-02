@@ -52,10 +52,10 @@ Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práti
 
 ## 🚀 Projetos
 
-- [**Rota da Fé**]((https://github.com/RotaDaFe)) – App em Flutter com SQLite para o Círio de Nazaré  
+- [**Rota da Fé**](https://github.com/RotaDaFe) – App em Flutter com SQLite para o Círio de Nazaré  
 - [**Projeto Compacine**](https://github.com/FelipeMourah/Projeto-Compacine) – API REST com Node.js e MongoDB  
 - [**Calculadora Acadêmica UNAMA**](https://github.com/FelipeMourah/App-Calculadora-de-Notas-Academicas-Unama) – Gestão de notas em Flutter  
-- [**Projeto FlexiLease Autos**]((https://github.com/FelipeMourah/Projeto-FlexiLease-Autos)) – App de tarefas pessoais com Flutter e UI intuitiva
+- [**Projeto FlexiLease Autos**](https://github.com/FelipeMourah/Projeto-FlexiLease-Autos) – App de tarefas pessoais com Flutter e UI intuitiva
 
 ---
 
