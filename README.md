@@ -62,7 +62,13 @@ Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práti
 ## 🎓 Formação
 
 - **Ciência da Computação** – UNAMA – 2023 até o momento  
-- **Trainee Compass UOL** – Back-end Journey (Node.js + AWS Cloud), 400h (abr/set 2024)
+- **Estagiário na Compass UOL** – Back-end Journey (Node.js + AWS Cloud), 400h (abr/set 2024)
+
+---
+
+## 💻 Work
+
+- **Programador Trainee - Compass Uol** - Atualmente trabalho como programador Trainee na compass - maio/2025
 
 ---
 
