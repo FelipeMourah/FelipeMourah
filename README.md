@@ -5,9 +5,20 @@
 
 ## 🧾 Sobre
 
-Sou estudante de Ciência da Computação (5º semestre) na UNAMA - Belém/PA e **Programador Trainee na Compass UOL**, onde participei da trilha Back-end Journey com foco em **Node.js e AWS Cloud**.
+**Nome** Felipe Moura
+\
+**Idade** 20 anos
+\
+**Universitario** ciencia da computação
 
-Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práticas, código limpo e aprendizado contínuo.
+Sou estudante de Ciência da Computação (5º semestre) na UNAMA - Belém/PA, **Programador Trainee na Compass UOL**, onde participei da trilha Back-end Journey com foco em **Node.js e AWS Cloud**.
+
+Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práticas, código limpo e aprendizado contínuo. Principal foco atualmente é aprofundar o conhecimento em JS e TS.
+
+---
+##  🏗️ Em construção
+
+** Estudos ** - Nest.js, React e Flutter
 
 ---
 
