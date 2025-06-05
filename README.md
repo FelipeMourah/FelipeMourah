@@ -97,11 +97,13 @@ Principal foco atualmente é aprofundar o conhecimento em JS e TS.
 
 ## 📜 Certificados
 
-- [AWS Cloud Practitioner Essentials]()  
-- [AWS Billing and Cost Management]()
-- [Job Roles in the Cloud]()
-- [Cloud Essentials Badge]()
-- [Compass UOL Scholarship – Back-end Journey (Node.js) - AWS Cloud Context]()
+- [AWS Cloud Practitioner Essentials](https://github.com/FelipeMourah/FelipeMourah/blob/main/Certificates/Certificados_AWS/134_3_5625373_1721325861_AWS%20Course%20Completion%20Certificate.pdf)  
+- [AWS Billing and Cost Management](https://github.com/FelipeMourah/FelipeMourah/blob/main/Certificates/Certificados_AWS/129_3_5625373_1725381242_AWS%20Course%20Completion%20Certificate.pdf)
+- [Job Roles in the Cloud](https://github.com/FelipeMourah/FelipeMourah/blob/main/Certificates/Certificados_AWS/156_3_5625373_1721063221_AWS%20Course%20Completion%20Certificate.pdf)
+- [Cloud Essentials - Knowledge Badge Readiness Path ](https://github.com/FelipeMourah/FelipeMourah/blob/main/Certificates/Certificados_AWS/lp_82_4_5625373_1725386506_AWS%20Learning%20Plan%20Completion%20Certificate.pdf)
+- [Cloud Essentials - Knowledge Badge Assessment](https://github.com/FelipeMourah/FelipeMourah/blob/main/Certificates/Certificados_AWS/15782_3_5625373_1725386505_AWS%20Course%20Completion%20Certificate.pdf)
+- [AWS Foundations: Getting Startes with the AWS cloud Essentials](https://github.com/FelipeMourah/FelipeMourah/blob/main/Certificates/Certificados_AWS/482_3_5625373_1725380431_AWS%20Course%20Completion%20Certificate.pdf)
+- [Compass UOL Scholarship – Back-end Journey (Node.js) - AWS Cloud Context](https://github.com/FelipeMourah/FelipeMourah/blob/main/Certificates/Felipe%20Santos%20de%20Moura.pdf)
 
 ---
 
