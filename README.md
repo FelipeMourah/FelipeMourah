@@ -9,11 +9,16 @@
 \
 **Idade** 20 anos
 \
-**Universitario** ciencia da computação
+**Universitario** Ciência da Computação
+\
+**Localização**: Belém-PA
+\
+**Email**: f.santosdemoura0703@gmail.com
 
 Sou estudante de Ciência da Computação (5º semestre) na UNAMA - Belém/PA, **Programador Trainee na Compass UOL**, onde participei da trilha Back-end Journey com foco em **Node.js e AWS Cloud**.
 
-Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práticas, código limpo e aprendizado contínuo. Principal foco atualmente é aprofundar o conhecimento em JS e TS.
+Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práticas, código limpo e aprendizado contínuo. 
+Principal foco atualmente é aprofundar o conhecimento em JS e TS.
 
 ---
 ##  🏗️ Em construção
@@ -54,18 +59,26 @@ Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práti
 </p>
 
 ### 🛠️ Ferramentas
-- **Design:** Figma, Canva  
-- **Mapas & Fluxogramas:** Whimsical, Visual Paradigm  
-- **Versionamento:** Git, GitHub (controle de branch, resolução de conflitos)  
-- **IDE:** VSCode (debug, auto complete, extensões úteis)
+- **Design:**
+   Figma, Canva  
+- **Mapas & Fluxogramas:**
+   Whimsical, Visual Paradigm  
+- **Versionamento:**
+   Git, GitHub (controle de branch, resolução de conflitos)  
+- **IDE:** 
+    VSCode (debug, auto complete, extensões úteis)
 
 ---
 
 ## 🚀 Projetos
 
-- [**Rota da Fé**](https://github.com/RotaDaFe) – App em Flutter com SQLite para o Círio de Nazaré  
-- [**Projeto Compacine**](https://github.com/FelipeMourah/Projeto-Compacine) – API REST com Node.js e MongoDB  
-- [**Calculadora Acadêmica UNAMA**](https://github.com/FelipeMourah/App-Calculadora-de-Notas-Academicas-Unama) – Gestão de notas em Flutter  
+- [**Rota da Fé**](https://github.com/RotaDaFe)
+   – O Projeto app Rota da Fé, é uma iniciativa do Grupo academico extensão Unama para facilitar o cadastro de participantes no evento Cirio. Desenvolvemos um aplicativo Android usando Flutter e Dart, com suporte offline usando um banco de dados SQLite 
+- [**Projeto Compacine**](https://github.com/FelipeMourah/Projeto-Compacine) 
+    –  O projeto consiste no desenvolvimento de uma API REST para a bilheteria de um cinema, utilizando as tecnologias e conhecimentos aprendidos no curso. O projeto deve ser desenvolvido em grupo 
+- [**Calculadora Acadêmica UNAMA**](https://github.com/FelipeMourah/App-Calculadora-de-Notas-Academicas-Unama)
+   – A Calculadora de Notas Acadêmicas UNAMA é um projeto de ferramenta digital em desenvolvimento para facilitar o acompanhamento do desempenho dos membros e a gestão das notas.
+
 
 ---
 
@@ -84,11 +97,11 @@ Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práti
 
 ## 📜 Certificados
 
-- AWS Cloud Practitioner Essentials  
-- AWS Billing and Cost Management  
-- Job Roles in the Cloud  
-- Cloud Essentials Badge  
-- Compass UOL Scholarship – Back-end Journey
+- [AWS Cloud Practitioner Essentials]()  
+- [AWS Billing and Cost Management]()
+- [Job Roles in the Cloud]()
+- [Cloud Essentials Badge]()
+- [Compass UOL Scholarship – Back-end Journey (Node.js) - AWS Cloud Context]()
 
 ---
 
@@ -114,4 +127,5 @@ Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práti
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
+
 <p align="center"><strong>“Persistência é o caminho do êxito.”</strong></p>
