@@ -18,7 +18,7 @@ Atualmente desenvolvo projetos web e mobile, sempre buscando aplicar boas práti
 ---
 ##  🏗️ Em construção
 
-** Estudos ** - Nest.js, React e Flutter
+**Estudos** - Nest.js, React e Flutter
 
 ---
 
