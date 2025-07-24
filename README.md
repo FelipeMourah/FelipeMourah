@@ -28,7 +28,7 @@ Principal foco atualmente é aprofundar o conhecimento em JS, TS e Flutter.
 
 **Estudos** 
 - Nest.js (iniciante)
-- React (iniciante)
+- React (basico)
 - Flutter (basico)
 
 ---
@@ -40,7 +40,6 @@ Principal foco atualmente é aprofundar o conhecimento em JS, TS e Flutter.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
 </p>
 
 ### ⚙️ Frameworks & Libs
